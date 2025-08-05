@@ -46,3 +46,11 @@ Sou muito interessado em **jogos digitais**, especialmente desenvolvimento 2D co
 * Aprender sobre desenvolvimento web completo (frontend e backend)
 * Explorar ferramentas como Git/GitHub e versionamento de código
 * Participar de projetos colaborativos e desafios de programação
+
+--- 
+
+## 🐍 Snake com meus commits
+
+![Snake animation](https://raw.githubusercontent.com/LuizzzzzzDs/snk/manual-run-output/docker/github-contribution-grid-snake.gif)
+
+
