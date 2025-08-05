@@ -51,6 +51,5 @@ Sou muito interessado em **jogos digitais**, especialmente desenvolvimento 2D co
 
 ## 🐍 Snake com meus commits
 
-![Snake animation](https://raw.githubusercontent.com/LuizzzzzzDs/snk/manual-run-output/docker/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/LuizzzzzzDs/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
